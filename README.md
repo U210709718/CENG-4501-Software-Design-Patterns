@@ -6,8 +6,8 @@ Each pattern is implemented in Java with simple examples to demonstrate its inte
 ## 📂 Patterns Covered
 
 1. **Strategy Pattern**  
-   Example: Duck behaviors with interchangeable flying and quacking behaviors
-   youtube Video : COMING SOON!
+   Example: Duck behaviors with interchangeable flying and quacking behaviors  
+   📺 YouTube Video: *COMING SOON!*
 
 2. **Observer Pattern**  
    Example: Weather station and display devices.
@@ -18,17 +18,17 @@ Each pattern is implemented in Java with simple examples to demonstrate its inte
 4. **Factory Pattern & Singleton Pattern**  
    Example:
 
-6. **Command Pattern**  
+5. **Command Pattern**  
    Example:
 
-7. **Adapter Pattern**  
+6. **Adapter Pattern**  
    Example:
 
-8. **Facade Pattern** 
+7. **Facade Pattern**  
    Example:
 
 ## 🛠️ How to Run ?
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/<your-username>/CENG-4501-Software-Design-Patterns.git
+   git clone https://github.com/U210709718/CENG-4501-Software-Design-Patterns.git
