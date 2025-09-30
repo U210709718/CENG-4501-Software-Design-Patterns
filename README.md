@@ -6,7 +6,8 @@ Each pattern is implemented in Java with simple examples to demonstrate its inte
 ## 📂 Patterns Covered
 
 1. **Strategy Pattern**  
-   Example: Duck behaviors with interchangeable flying and quacking behaviors.
+   Example: Duck behaviors with interchangeable flying and quacking behaviors
+   youtube Video : COMING SOON!
 
 2. **Observer Pattern**  
    Example: Weather station and display devices.
