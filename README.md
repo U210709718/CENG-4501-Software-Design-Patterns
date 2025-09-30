@@ -3,32 +3,36 @@
 This repository contains implementations of several key **software design patterns** studied in the course **CENG-4501 Software Design Patterns**.  
 Each pattern is implemented in Java with simple examples to demonstrate its intent, structure, and usage.
 
+---
+
 ## 📂 Patterns Covered
 
-1. **Strategy Pattern**  
-   Example: Duck behaviors with interchangeable flying and quacking behaviors  
-   📺 YouTube Video: *COMING SOON!*
+- 🟢 **Strategy Pattern**  
+  Example: Duck behaviors with interchangeable flying and quacking behaviors  
+  📺 YouTube Video: *COMING SOON!*
 
-2. **Observer Pattern**  
-   Example: Weather station and display devices.
+- 🔵 **Observer Pattern**  
+  Example: Weather station and display devices.
 
-3. **Decorator Pattern**  
-   Example:
+- 🟣 **Decorator Pattern**  
+  Example:
 
-4. **Factory Pattern & Singleton Pattern**  
-   Example:
+- 🟠 **Factory Pattern & Singleton Pattern**  
+  Example:
 
-5. **Command Pattern**  
-   Example:
+- 🟡 **Command Pattern**  
+  Example:
 
-6. **Adapter Pattern**  
-   Example:
+- 🔴 **Adapter Pattern**  
+  Example:
 
-7. **Facade Pattern**  
-   Example:
+- 🟤 **Facade Pattern**  
+  Example:
 
-## 🛠️ How to Run ?
+---
 
-1. Clone this repository:
+## 🛠️ How to Run
+
+1. Clone this repository by running:  
    ```bash
    git clone https://github.com/U210709718/CENG-4501-Software-Design-Patterns.git
