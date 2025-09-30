@@ -1,0 +1,23 @@
+public class RubberDuck extends Duck {
+
+    @Override
+    public void quack() {
+        System.out.println("can't quack");
+    }
+
+    @Override
+    public void fly() {
+        System.out.println("I can't fly");
+    }
+
+    @Override
+    public void swim() {
+        System.out.println("I'm swimming");
+    }
+
+    @Override
+    public void display() {
+        System.out.println("I'm a RubberDuck duck");
+    }
+    
+}
