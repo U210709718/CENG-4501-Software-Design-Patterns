@@ -24,7 +24,7 @@ Each pattern is implemented in Java with simple examples to demonstrate its inte
    Example:
 
 8. **Facade Pattern** 
-    Example:
+   Example:
 
 ## 🛠️ How to Run ?
 
