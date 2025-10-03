@@ -9,7 +9,7 @@ Each pattern is implemented in Java with simple examples to demonstrate its inte
 
 - 🟢 **Strategy Pattern**  
   Example: Duck behaviors with interchangeable flying and quacking behaviors 
-  
+
   How class diagram is before applying stragtegy pattern:
   ![Alt text](PICS/BeforeStragtegyPattern.jpeg)
   After applying :
@@ -19,6 +19,10 @@ Each pattern is implemented in Java with simple examples to demonstrate its inte
 
 - 🔵 **Observer Pattern**  
   Example: Weather station and display devices.
+  How class diagram is before applying Observer pattern:
+  ![Alt text](PICS/BeforeObserverPattern.jpeg)
+  After applying Observer pattern :
+   ![Alt text](PICS/AfterObserverPattern.jpeg)
 
 - 🟣 **Decorator Pattern**  
   Example:
