@@ -8,7 +8,13 @@ Each pattern is implemented in Java with simple examples to demonstrate its inte
 ## 📂 Patterns Covered
 
 - 🟢 **Strategy Pattern**  
-  Example: Duck behaviors with interchangeable flying and quacking behaviors  
+  Example: Duck behaviors with interchangeable flying and quacking behaviors 
+  
+  How class diagram is before applying stragtegy pattern:
+  ![Alt text](PICS/BeforeStragtegyPattern.jpeg)
+  After applying :
+   ![Alt text](PICS/AfterStragtegyPattern.jpeg)
+ 
   📺 YouTube Video: *COMING SOON!*
 
 - 🔵 **Observer Pattern**  
