@@ -11,9 +11,9 @@ Each pattern is implemented in Java with simple examples to demonstrate its inte
   Example: Duck behaviors with interchangeable flying and quacking behaviors 
 
   How class diagram is before applying stragtegy pattern:
-  ![Alt text](PICS/BeforeStragtegyPattern.jpeg)
+  ![Alt text](PICS/BeforeStrategyPattern.jpg)
   After applying :
-   ![Alt text](PICS/AfterStragtegyPattern.jpeg)
+   ![Alt text](PICS/AfterStrategyPattern.jpeg)
  
   📺 YouTube Video: *COMING SOON!*
 
