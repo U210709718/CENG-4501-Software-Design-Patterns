@@ -1,5 +1,5 @@
 package ObserverPattern.ObserverPattern;
 
-public class WeatherData {
+public class WeatherStation {
     
 }
