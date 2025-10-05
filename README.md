@@ -21,9 +21,10 @@ Each pattern is implemented in Java with simple examples to demonstrate its inte
   Example: Weather station and display devices.
   
   How class diagram is before applying Observer pattern:
-  ![Alt text](PICS/BeforeObserverPattern.jpeg)
+  ![Alt text](PICS/BeforeObserverPattern.jpg)
+  
   After applying Observer pattern :
-   ![Alt text](PICS/AfterObserverPattern.jpeg)
+   ![Alt text](PICS/AfterObserverPattern.jpg)
 
 - 🟣 **Decorator Pattern**  
   Example:
