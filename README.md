@@ -30,7 +30,9 @@ Each pattern is implemented in Java with simple examples to demonstrate its inte
   After applying Observer pattern :
    ![Alt text](PICS/AfterObserverPattern.jpg)
 
-- 🟣 **Decorator Pattern**  
+- 🟣 **Decorator Pattern**
+- CHANGING THE CONTENT OF AN OBJECT AT RUNTIME
+  
   Example: Star link Coffe`
   Adding condiments to a coffee (Decorating the coffee)
 
