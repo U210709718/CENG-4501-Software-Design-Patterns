@@ -9,6 +9,7 @@ Each pattern is implemented in Java with simple examples to demonstrate its inte
 
 - 🟢 **Strategy Pattern**
 - MOVING  FROM INHERITENCE INTO COMPOSITION
+  
   Example: Duck behaviors with interchangeable flying and quacking behaviors 
 
   How class diagram is before applying stragtegy pattern:
@@ -20,6 +21,7 @@ Each pattern is implemented in Java with simple examples to demonstrate its inte
 
 - 🔵 **Observer Pattern**
 - MOVING FROM PULL TO PUSH!
+  
   Example: Weather station and display devices.
   
   How class diagram is before applying Observer pattern:
