@@ -32,6 +32,12 @@ Each pattern is implemented in Java with simple examples to demonstrate its inte
 
 - 🟣 **Decorator Pattern**
 - CHANGING THE CONTENT OR BEHAVIOR OF AN OBJECT AT RUNTIME
+
+  Problem before applying the pattern:
+  ![Alt text](BeforeDecoratorPattern.png)
+
+  After applying the pattern:
+  ![Alt text](AfterDecoratorPattern.png)
   
   Example: Star link Coffe`
   Adding condiments to a coffee (Decorating the coffee)
