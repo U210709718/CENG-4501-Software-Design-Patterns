@@ -44,14 +44,23 @@ Each pattern is implemented in Java with simple examples to demonstrate its inte
 
 - 🟠 **Factory Pattern & Singleton Pattern**  
   Example: Pizza store
+  
   1- Simple Factory pattern
+  
   Before:
+  
   After:
+  
   2- Factory Method pattern
+  
   Before:
+  
   After:
+  
   3- Abstract Factory pattern
+  
   Before:
+  
   After:
 
 - 🟡 **Command Pattern**  
