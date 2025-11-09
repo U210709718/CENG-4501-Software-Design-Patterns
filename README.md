@@ -43,7 +43,16 @@ Each pattern is implemented in Java with simple examples to demonstrate its inte
   Adding condiments to a coffee (Decorating the coffee)
 
 - 🟠 **Factory Pattern & Singleton Pattern**  
-  Example:
+  Example: Pizza store
+  1- Simple Factory pattern
+  Before:
+  After:
+  2- Factory Method pattern
+  Before:
+  After:
+  3- Abstract Factory pattern
+  Before:
+  After:
 
 - 🟡 **Command Pattern**  
   Example:
