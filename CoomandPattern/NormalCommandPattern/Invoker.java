@@ -5,6 +5,7 @@ public class Invoker {
         slot= command;
 
     }
+
     public void buttonPressed(){
         slot.execute();
     }
