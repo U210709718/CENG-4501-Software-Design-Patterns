@@ -57,26 +57,23 @@ Each pattern is implemented in Java with simple examples to demonstrate its inte
   2- Factory Method pattern
   
   Before:
+  ![Alt text](PICS/.png)
   
   After:
+  ![Alt text](PICS/AfterFactoryMethodPattern.png)
   
   3- Abstract Factory pattern
   
   Before:
   
   After:
-- 🟡 **Singleton Pattern**
-- 
+- 🔴 **Singleton Pattern**
+- ![Alt text](PICS/SingletonPattern.png)
 - 🟡 **Command Pattern**  
-  Example:
+  Example: Remote control which closes Lights or another IOT devices connected to the remote by a command!
+  ![Alt text](PICS/CommandPattern.png)
 
-- 🔴 **Adapter Pattern**  
-  Example:
 
-- 🟤 **Facade Pattern**  
-  Example:
-
----
 
 ## 🛠️ How to Run
 
