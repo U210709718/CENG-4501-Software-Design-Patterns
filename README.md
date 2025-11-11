@@ -1,4 +1,4 @@
-# CENG-4501 – Software Design Patterns (Fall 2025)
+# Software Design Patterns
 
 This repository contains implementations of several key **software design patterns** studied in the course **CENG-4501 Software Design Patterns**.  
 Each pattern is implemented in Java with simple examples to demonstrate its intent, structure, and usage.
