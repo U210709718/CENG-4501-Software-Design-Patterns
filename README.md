@@ -68,7 +68,8 @@ Each pattern is implemented in Java with simple examples to demonstrate its inte
   
   After:
 - 🔴 **Singleton Pattern**
-- ![Alt text](PICS/SingletonPattern.png)
+   ![Alt text](PICS/SingletonPattern.png)
+  
 - 🟡 **Command Pattern**  
   Example: Remote control which closes Lights or another IOT devices connected to the remote by a command!
   - Concrete Invoker could be : remote control.
