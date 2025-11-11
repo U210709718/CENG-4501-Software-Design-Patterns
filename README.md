@@ -51,6 +51,8 @@ Each pattern is implemented in Java with simple examples to demonstrate its inte
   ![Alt text](PICS/BeforeSimpleFactoryPattern.png)
   
   After:
+  ![Alt text](PICS/AfterSimpleFactoryPattern.png)
+
   
   2- Factory Method pattern
   
