@@ -71,6 +71,10 @@ Each pattern is implemented in Java with simple examples to demonstrate its inte
 - ![Alt text](PICS/SingletonPattern.png)
 - 🟡 **Command Pattern**  
   Example: Remote control which closes Lights or another IOT devices connected to the remote by a command!
+  - Concrete Invoker could be : remote control.
+  - Concrete Command could be : TurnOnLightCommand.
+  - Reciver is the Light class which has On(); and Off Methods.
+  
   ![Alt text](PICS/CommandPattern.png)
 
 
