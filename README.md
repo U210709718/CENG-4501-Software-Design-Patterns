@@ -68,6 +68,7 @@ Each pattern is implemented in Java with simple examples to demonstrate its inte
   
   After:
 - 🔴 **Singleton Pattern**
+  
    ![Alt text](PICS/SingletonPattern.png)
   
 - 🟡 **Command Pattern**  
