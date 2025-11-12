@@ -57,7 +57,7 @@ Each pattern is implemented in Java with simple examples to demonstrate its inte
   2- Factory Method pattern
   
   Before:
-  ![Alt text](PICS/.png)
+  ![Alt text](PICS/BeforeMethodFactoryPattern.png)
   
   After:
   ![Alt text](PICS/AfterFactoryMethodPattern.png)
