@@ -85,4 +85,4 @@ Each pattern is implemented in Java with simple examples to demonstrate its inte
 
 1. Clone this repository by running:  
    ```bash
-   git clone https://github.com/U210709718/CENG-4501-Software-Design-Patterns.git
+   git clone https://github.com/U210709718/SoftwareDesignPatterns
