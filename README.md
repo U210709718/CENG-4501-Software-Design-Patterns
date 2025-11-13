@@ -65,7 +65,6 @@ Each pattern is implemented in Java with simple examples to demonstrate its inte
   ![Alt text](PICS/AfterFactoryMethodPattern.png)
   
   3- Abstract Factory pattern
-  Example : pizza store 
     }م
   
 - 🔴 **Singleton Pattern**
