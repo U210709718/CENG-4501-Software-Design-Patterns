@@ -55,7 +55,9 @@ Each pattern is implemented in Java with simple examples to demonstrate its inte
 
   
   2- Factory Method pattern
-    Example : pizza store 
+
+  Example : pizza store
+  
   Before:
   ![Alt text](PICS/BeforeMethodFactoryPattern.png)
   
