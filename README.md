@@ -42,11 +42,11 @@ Each pattern is implemented in Java with simple examples to demonstrate its inte
   Example: Star link Coffe`
   Adding condiments to a coffee (Decorating the coffee)
 
-- 🟠 **Factory Pattern**  
-  Example: Pizza store
+- 🟠 **Factory Pattern**
+  
   
   1- Simple Factory pattern
-  
+    Example : pizza store 
   Before:
   ![Alt text](PICS/BeforeSimpleFactoryPattern.png)
   
@@ -55,7 +55,7 @@ Each pattern is implemented in Java with simple examples to demonstrate its inte
 
   
   2- Factory Method pattern
-  
+    Example : pizza store 
   Before:
   ![Alt text](PICS/BeforeMethodFactoryPattern.png)
   
@@ -63,10 +63,9 @@ Each pattern is implemented in Java with simple examples to demonstrate its inte
   ![Alt text](PICS/AfterFactoryMethodPattern.png)
   
   3- Abstract Factory pattern
+  Example : pizza store 
+    }م
   
-  Before:
-  
-  After:
 - 🔴 **Singleton Pattern**
   
    ![Alt text](PICS/SingletonPattern.png)
